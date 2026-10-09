@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Betking Live 1" tvg-name="Betking Live 1" tvg-logo="https://footballlive.pp.ua/images/free-1.png",Betking Live 1
+https://kinohub.uk/lite/iptvportal/api/stream?playlist=iptvonline2&target=aHR0cDovL2dyLm9ubGluZTI0LnBtL3BsYXkvNTAyNi80M0YwRTFBM0FENkE0QkUvdmlkZW8ubTN1OA&uid=mjo3zcmr&expires=1791651833&sig=6ZyUFyAXdBUmNOdAuM4miguaC3PYfZofiALj_nCh78Y
+#EXTINF:-1 tvg-id="Betking Live 2" tvg-name="Betking Live 2" tvg-logo="https://footballlive.pp.ua/images/free-2.png",Betking Live 2
+https://kinohub.uk/lite/iptvportal/api/stream?playlist=iptvonline2&target=aHR0cDovL2dyLm9ubGluZTI0LnBtL3BsYXkvNTAyNy80M0YwRTFBM0FENkE0QkUvdmlkZW8ubTN1OA&uid=mjo3zcmr&expires=1791651833&sig=yLDmUczjKtTsF5abGWsadFQt9z1w4HuGlh0HmYVZyD4
+#EXTINF:-1 tvg-id="Betking Live 3" tvg-name="Betking Live 3" tvg-logo="https://footballlive.pp.ua/images/free-3.png",Betking Live 3 
+https://kinohub.uk/lite/iptvportal/api/stream?playlist=iptvonline2&target=aHR0cDovL2dyLm9ubGluZTI0LnBtL3BsYXkvNTEwMjQvNDNGMEUxQTNBRDZBNEJFL3ZpZGVvLm0zdTg&uid=mjo3zcmr&expires=1791651833&sig=fLsKx0JzYpVMqqEul4E5JxiE05dzeD_eoq43PC11oSk
+#EXTINF:-1 tvg-id="Betking Live 4" tvg-name="Betking Live 4" tvg-logo="https://footballlive.pp.ua/images/free-4.png",Betking Live 4 
+https://kinohub.uk/lite/iptvportal/api/stream?playlist=iptvonline2&target=aHR0cDovL2dyLm9ubGluZTI0LnBtL3BsYXkvNTA2MC80M0YwRTFBM0FENkE0QkUvdmlkZW8ubTN1OA&uid=mjo3zcmr&expires=1791651833&sig=ilTEKwwgpWnLFVMHYPVaylQt0d4vYhuhxQCAAsTW9Bc
+#EXTINF:-1 tvg-id="Betking Live 5" tvg-name="Betking Live 5" tvg-logo="https://github.com/smartsetup1/LOGO1/blob/main/restoration_image_20260907_160003.png?raw=true",Betking Live 5
+https://kinohub.uk/lite/iptvportal/api/stream?playlist=iptvonline2&target=aHR0cDovL2dyLm9ubGluZTI0LnBtL3BsYXkvNTA2MS80M0YwRTFBM0FENkE0QkUvdmlkZW8ubTN1OA&uid=mjo3zcmr&expires=1791651833&sig=YTpcMJIooO9gcifGKbrn-Ha7CZUPoZKLGcLJ6nBwW2Y
